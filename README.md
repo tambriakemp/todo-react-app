@@ -6,4 +6,7 @@
 https://todo-app-reactjs.netlify.com/
 
 ## Tech Stack
-React, CSS, Netlify
+* React
+* Javascript
+* CSS
+* Netlify
