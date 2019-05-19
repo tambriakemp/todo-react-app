@@ -11,3 +11,6 @@ https://todo-app-reactjs.netlify.com/
 * Javascript
 * CSS
 * Netlify
+
+## Tech Stack
+* Make ToDo items searchable
