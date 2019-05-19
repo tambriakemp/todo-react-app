@@ -1,4 +1,4 @@
-# To Do React App
+# ToDo React App
 
 ## Description
 Not your average ToDo app.  This app has lots of style and functionality.  App gives you the ability to create to do list and create CRUD functions on the todo items. 
