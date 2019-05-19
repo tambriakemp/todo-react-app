@@ -41,6 +41,7 @@ main {
   width: 20px;
   left: 0;
   background-color: #eee;
+  top: 0;
 }
 
 /* On mouse-over, add a grey background color */

@@ -1,19 +1,15 @@
 import React from "react";
 import "./toDoItem.css";
 
-function ToDoItem() {
-  const date = Date();
-
+function ToDoItem(props) {
   return (
     <div className="todo-items">
       <div className="todo-item">
         <label class="container">
-          Two
+          {props.item.todoitem}
           <input type="checkbox" />
           <span class="checkmark" />
         </label>
-
-        {/* <span>{date}</span> */}
       </div>
     </div>
   );
