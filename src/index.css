@@ -7,6 +7,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+p,
+h1,
+h4 {
+  margin: 0;
+  padding: 10px;
+}
+
+h4 {
+  color: #7f63f4;
+  font-size: 22px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

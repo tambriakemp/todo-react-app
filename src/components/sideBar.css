@@ -1,0 +1,11 @@
+/*--------Logo Area--------*/
+.logo-area {
+  background-color: #7f63f4;
+  margin: 0;
+  padding: 10px 0;
+}
+
+.logo-area h1 {
+  color: white;
+  font-size: 32px;
+}
