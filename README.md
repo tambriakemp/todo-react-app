@@ -1,3 +1,13 @@
+#To Do React App
+
+## Description
+
+## Live Link
+https://todo-app-reactjs.netlify.com/
+
+## Tech Stack
+React, CSS, Netlify, 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
