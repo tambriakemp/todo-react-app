@@ -14,3 +14,6 @@ https://todo-app-reactjs.netlify.com/
 
 ## Tech Stack
 * Make ToDo items searchable
+
+## Screenshots
+![Home Page](https://github.com/tambriakemp/autoSpaBistro/blob/master/public/images/ "Home Page")
