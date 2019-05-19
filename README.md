@@ -12,7 +12,7 @@ https://todo-app-reactjs.netlify.com/
 * CSS
 * Netlify
 
-## Tech Stack
+## Future Development
 * Make ToDo items searchable
 
 ## Screenshots
