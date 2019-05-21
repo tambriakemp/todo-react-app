@@ -9,7 +9,7 @@ function Header() {
           <p>search</p>
         </div>
         <div>
-          <p>profile</p>
+          <img src="/images/avatar.svg" alt="avatar" />
         </div>
       </div>
       <div className="bottom-bar">

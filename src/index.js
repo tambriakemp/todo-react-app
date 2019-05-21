@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 //When imports don't have a relative path, it looks for a module instead of a file
 import "./index.css";
-import App from "./App";
+import App from "./components/App";
 import * as serviceWorker from "./serviceWorker";
 
 //ReactDOM.render(What do I want to render, Where do I want to render it)
